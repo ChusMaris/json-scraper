@@ -1,0 +1,5 @@
+{
+  "name": "BasquetCatala Data Scraper",
+  "description": "An advanced scraping tool to extract match statistics (JSON) and game moves from BasquetCatala.cat. Supports single match extraction and bulk processing from competition result pages.",
+  "requestFramePermissions": []
+}
